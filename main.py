@@ -112,6 +112,8 @@ if choice2 in ('1','2','3'):
         answer2 = 'w ogóle nie czytam'
     elif choice2 == '3':
         answer2 = 'podczas pracy/nauki (to ich element)'
+    else:
+        print("nie ma takiej odpowiedzi")
 print(answer2)
 
 print()
@@ -131,6 +133,8 @@ if choice3 in ('1','2','3'):
         answer3 = 'fakt, że czytanie jest modne'
     elif choice3 == '3':
         answer3 = 'odczuwam presję rodziny/środowiska, żeby czytać'
+     else:
+        print("nie ma takiej odpowiedzi")
 print(answer3)
 
 print()
@@ -150,6 +154,8 @@ if choice4 in ('1','2','3'):
         answer4 = 'e-booki (książki elektroniczne) na komputerze'
     elif choice4 == '3':
         answer4 = 'e-booki na tablecie/telefonie'
+    else:
+        print("nie ma takiej odpowiedzi")
 print(answer4)
 
 print()
@@ -170,6 +176,8 @@ if choice5 in ('1','2','3'):
         answer5 = '2 lub 3'
     elif choice5 == '3':
         answer5 = 'powyżej 10'
+    else:
+        print("nie ma takiej odpowiedzi")
 print(answer5)
 
 print()
@@ -190,6 +198,8 @@ if choice6 in ('1','2','3'):
         answer6 = 'raz na kilka miesięcy'
     elif choice6 == '3':
         answer6 = 'wcale'
+    else:
+        print("nie ma takiej odpowiedzi")
 print(answer6)
 
 print()
@@ -209,6 +219,8 @@ if choice7 in ('1','2','3'):
         answer7 = 'naukowe'
     elif choice7 == '3':
         answer7 = 'historyczne'
+    else:
+        print("nie ma takiej odpowiedzi")
 print(answer7)
 
 
